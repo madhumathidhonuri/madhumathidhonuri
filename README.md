@@ -9,6 +9,19 @@
 
 - 🌱 I’m currently learning **Django Rest Framework**, **React**, and exploring **LeetCode**
 
+---
+
+### 💡 Skills
+
+- **Programming Languages:** Python, JavaScript, SQL  
+- **Web Development:** HTML, CSS, Django, Django Rest Framework, ReactJS  
+- **Databases:** MySQL  
+- **Libraries & Frameworks:** Django Rest Framework, NumPy, Pandas, Matplotlib  
+- **Tools & Technologies:** Git, VS Code  
+- **Soft Skills:** Problem-Solving, Adaptability, Communication
+
+---
+
 - 💞️ I’m looking to collaborate on:
   - Open source projects
   - Hackathons
@@ -18,7 +31,7 @@
   - 📧 Email: `madhumathidonuru@gmail.com`
   - 💼 [LinkedIn](https://www.linkedin.com/in/dhonuri-madhumathi-46b3692b9/)
 
-- ⚡ Fun fact:  
+- ⚡ **Fun fact:**  
   I love building projects that blend **creativity + code** ✨
 
 <!---
