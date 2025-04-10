@@ -3,7 +3,7 @@
 - 🎓 I'm a 3rd year B.Tech CSE student at **Sri Indu College of Engineering and Technology**
 
 - 👀 I’m interested in:
-  - 🖥️ Web Development (Frontend + Backend)
+  - 🖥️ Full Stack Development (Frontend + Backend)
   - 🧠 Problem Solving & Coding Challenges
   - 📊 Data Science basics (Numpy, Pandas, Matplotlib)
 
