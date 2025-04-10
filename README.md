@@ -5,7 +5,6 @@
 - 👀 I’m interested in:
   - 🖥️ Full Stack Development (Frontend + Backend)
   - 🧠 Problem Solving & Coding Challenges
-  - 📊 Data Science basics (Numpy, Pandas, Matplotlib)
 
 - 🌱 I’m currently learning **Django Rest Framework**, **React**, and exploring **LeetCode**
 
