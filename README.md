@@ -6,7 +6,7 @@
   - 🖥️ Full Stack Development (Frontend + Backend)
   - 🧠 Problem Solving & Coding Challenges
 
-- 🌱 I’m currently learning **Django Rest Framework**, **React**, and exploring **LeetCode**
+- 🌱 I’m currently learning **DSA** and exploring **LeetCode**
 
 ---
 
