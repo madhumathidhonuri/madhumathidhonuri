@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Dhonuri Madhumathi
 
-- 🎓 I'm a B.Tech final year CSE student at **Sri Indu College of Engineering and Technology**
-
 - 👀 I’m interested in:
   - 🖥️ Full Stack Development (Frontend + Backend)
   - 🧠 Problem Solving & Coding Challenges
