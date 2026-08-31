@@ -1,41 +1,72 @@
 # 👋 Hi, I'm Dhonuri Madhumathi
 
-Junior Software Developer at **Fueltracks Technologies Private Limited**, working on full-stack web development. I build things end-to-end — from database design to UI — and I'm currently deepening my skills in DSA, system design, and SQL.
+Junior Developer at **Fuel Tracks Technologies Private Limited**, building full-stack web applications, REST APIs, and AI-powered voice systems. Strong foundation in Python, Django, and SQL, with growing expertise in Node.js/Express and real-time systems.
 
 ---
 
-### 💡 Currently
+### 💼 Currently
 
-- 💼 Working as a **Junior Software Developer** at Fueltracks Technologies
-- 🛠️ Building with **React, Node.js & Express** alongside **Django/DRF**
-- 🌱 Sharpening **Data Structures & Algorithms** and **SQL** fundamentals
-- 🔭 Exploring backend architecture and API design patterns beyond the basics
+- 🚀 Building a **multilingual voice calling agent** using FastAPI, WebSockets, and Claude/Gemini APIs
+
+- 🛠️ Working across the stack — Python/Django, Node.js/Express, React, PostgreSQL, Redis
+
+- 🌱 Sharpening **Data Structures & Algorithms** and **system design** fundamentals
+
+- 🎓 B.Tech in Computer Science, Sri Indu College of Engineering and Technology (2022–2026)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, Python, SQL
+**Languages:** Python, JavaScript, SQL
+
+**Backend:** Django, FastAPI, Node.js, Express.js, REST APIs
+
 **Frontend:** ReactJS, HTML, CSS
-**Backend:** Node.js, Express.js, Django, Django REST Framework
-**Database:** MySQL
-**Tools:** Git, GitHub, VS Code
+
+**Databases:** MySQL, PostgreSQL, SQLite, Redis
+
+**Real-time & Infra:** WebSockets, Socket.io, Redis pub/sub
+
+**AI/APIs:** Claude, Gemini, Sarvam AI, Exotel Telephony
+
 **Data:** NumPy, Pandas, Matplotlib
+
+**Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
 ### 📌 Featured Projects
 
-Check out my pinned repos below for projects covering full-stack apps, automation scripts, and data-driven tools.
+**🎙️ [Multilingual Voice Calling Agent](https://github.com/madhumathidhonuri/FuelTracks_voice_calling_agent)**
+Production-ready voice calling agent with Exotel telephony, bidirectional WebSocket audio streaming, VAD, multilingual STT/TTS via Sarvam AI, and Claude/Gemini-powered conversation routing with real-time barge-in support.
+
+**🤖 [FuelTracks Chatbot](https://github.com/madhumathidhonuri/FuelTrackschatbot)**
+Django-based chatbot automating catalog and customer interaction workflows, with a custom catalog extraction pipeline.
+
+**🚚 [FuelTracks Fleet Tracking System](https://github.com/achyuth2308/fueltracks1)**
+Multi-tenant, high-concurrency GPS fleet tracking platform — Express.js REST API with JWT auth and role-based access, Redis pub/sub + Socket.io for live telemetry, React/Vite dashboard with Leaflet maps, and a 13-table PostgreSQL schema.
+
+---
+
+### 📜 Certifications
+
+- MySQL – SQL and Database Testing, Infosys (2024)
+- Full Stack Python Certification, PythonLife (2025)
+- Python Pandas – Basic Course, Simplilearn (2024)
 
 ---
 
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhonuri-madhumathi-46b3692b9/)
+
 - 🌐 [Portfolio](https://madhumathidhonuri.github.io/My-Portfolio/portfolio.html)
+
 - 💻 [LeetCode](https://leetcode.com/u/madhumathi_reddyy/)
+
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/madhumathidonuru)
+
 - 📧 madhumathidonuru@gmail.com
 
 ---
