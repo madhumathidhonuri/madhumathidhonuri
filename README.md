@@ -1,37 +1,43 @@
-# 👋 Hi, I’m Dhonuri Madhumathi
+# 👋 Hi, I'm Dhonuri Madhumathi
 
-- 👀 I’m interested in:
-  - 🖥️ Full Stack Development (Frontend + Backend)
-  - 🧠 Problem Solving & Coding Challenges
-
-- 🌱 I’m currently learning **DSA** and exploring **LeetCode**
+Junior Software Developer at **Fueltracks Technologies Private Limited**, working on full-stack web development. I build things end-to-end — from database design to UI — and I'm currently deepening my skills in DSA, system design, and SQL.
 
 ---
 
-### 💡 Skills
+### 💡 Currently
 
-- **Programming Languages:** Python, JavaScript, SQL  
-- **Web Development:** HTML, CSS, Django, Django Rest Framework, ReactJS  
-- **Databases:** MySQL  
-- **Libraries & Frameworks:** Django Rest Framework, NumPy, Pandas, Matplotlib  
-- **Tools & Technologies:** Git, VS Code  
-- **Soft Skills:** Problem-Solving, Adaptability, Communication
+- 💼 Working as a **Junior Software Developer** at Fueltracks Technologies
+- 🛠️ Building with **React, Node.js & Express** alongside **Django/DRF**
+- 🌱 Sharpening **Data Structures & Algorithms** and **SQL** fundamentals
+- 🔭 Exploring backend architecture and API design patterns beyond the basics
 
 ---
 
-- 💞️ I’m looking to collaborate on:
-  - Open source projects
-  - Hackathons
-  - Learning groups & team projects
+### 🛠️ Tech Stack
 
-- 📫 Let’s Connect:
-  - 📧 Email: `madhumathidonuru@gmail.com`
-  - 💼 [LinkedIn](https://www.linkedin.com/in/dhonuri-madhumathi-46b3692b9/)
+**Languages:** JavaScript, Python, SQL
+**Frontend:** ReactJS, HTML, CSS
+**Backend:** Node.js, Express.js, Django, Django REST Framework
+**Database:** MySQL
+**Tools:** Git, GitHub, VS Code
+**Data:** NumPy, Pandas, Matplotlib
 
-- ⚡ **Fun fact:**  
-  I love building projects that blend **creativity + code** ✨
+---
 
-<!---
-madhumathidhonuri/madhumathidhonuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📌 Featured Projects
+
+Check out my pinned repos below for projects covering full-stack apps, automation scripts, and data-driven tools.
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhonuri-madhumathi-46b3692b9/)
+- 🌐 [Portfolio](https://madhumathidhonuri.github.io/My-Portfolio/portfolio.html)
+- 💻 [LeetCode](https://leetcode.com/u/madhumathi_reddyy/)
+- 🏆 [HackerRank](https://www.hackerrank.com/profile/madhumathidonuru)
+- 📧 madhumathidonuru@gmail.com
+
+---
+
+⭐️ Open to collaborating on real-world projects, open source, and anything that helps me grow as an engineer.
